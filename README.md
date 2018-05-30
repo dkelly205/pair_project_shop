@@ -20,3 +20,25 @@ Make sure you style your shop appropriately with CSS.
 Extensions.
 Search for product by partial title.
 Display products filtered by catagory.
+
+
+To Run The App
+
+- clone the app onto your machine
+
+-create database in terminal using the following command:
+
+                createdb shopdb
+                
+- run the main controller in intellij
+
+- navigate to https://localhost:4567/
+
+- create a username 
+
+- to log in as admin username is admin & password is admin1234
+
+
+
+
+
